@@ -13,4 +13,4 @@ Procesamiento Digital de Señales
 ## Código
 Para consultar la implementación y solución de los ejercicios desarrollados en esta tarea, accede al siguiente notebook en Google Colab:
 
-[Abrir en Google Colab](https://colab.research.google.com/drive/1LZ2_vChfBnaTX59tMJW9YlJVU34eJ_AH?usp=sharing)
+[Abrir en Google Colab](https://colab.research.google.com/drive/1xrfHzus5hca8G014yKeazqBhMnbyb220?usp=sharing)
